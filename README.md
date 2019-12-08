@@ -1,2 +1,1 @@
-# ChessGameAnalysis
-One Next Best Chess Move Predictor
+# BTP
